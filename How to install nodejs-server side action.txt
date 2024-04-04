@@ -1,0 +1,12 @@
+1.visit https://nodejs.org/en
+2.Download Node js
+3.Please install from the downloads folder
+4.Just for fyi reasons, make note of node js path or location
+5.Then open command prompt
+6.change path of prompt to :"C:\WINDOWS\system32>"
+7.type "node" at the prompt
+8.then type the following:
+console.log("Hello and welcome to node js!")
+9.the same will be printed out on the console as output in the next line itself followed
+by the word "undefined"
+10.yes, nodejs is working!!!
